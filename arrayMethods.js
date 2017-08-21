@@ -64,3 +64,6 @@ monthNameString = monthNames.toString();
 favoriteColor = colors.indexOf("Red");
 favoriteEvenNumber = mixedNums.indexOf(76);
 
+lastNine = bulkNumbers.lastIndexOf(9);
+lastFive = bulkNumbers.lastIndexOf(5);
+
